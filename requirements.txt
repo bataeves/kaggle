@@ -1,0 +1,17 @@
+scipy
+numpy
+scikit-learn
+xgboost
+pandas
+catboost
+lightgbm
+tqdm
+jupyter
+jupyter_nbextensions_configurator
+jupyter_contrib_nbextensions
+ipycache
+hyperopt
+eli5
+matplotlib
+seaborn
+statsmodels
